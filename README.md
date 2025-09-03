@@ -11,7 +11,7 @@ This is a simple weather application that allows users to get weather informatio
 ## Installation
 
 1. Clone the repository to your local machine:
-   - git clone https://github.com/Kiran1689/full-stack-weather-app.git
+   - https://github.com/Tarun-B-Tarun/Weather-App
    
 2. Change to the project directory:
    - cd full-stack-weather-app
